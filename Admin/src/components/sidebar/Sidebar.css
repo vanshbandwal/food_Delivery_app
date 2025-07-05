@@ -1,0 +1,32 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 23%;
+    padding-top: 300px ;
+    padding-bottom: 300px;
+    gap: 30px;
+    background-color: white;
+    border-right: 2px solid rgba(0, 0, 0, 0.351);
+    padding-right: 30px;
+
+}
+.logo{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    padding: 2px 5px;
+    border-radius: 2px;
+    width: 200px;
+    background-color: rgb(195, 195, 195);
+    gap: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.355);
+
+}
+.logo img{
+    height: 40px;
+    width: 70px;
+}
