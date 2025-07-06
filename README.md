@@ -5,16 +5,25 @@ A dynamic and responsive food ordering web application developed using the MERN 
 🔧 Features:
 
 🍕 Browse & filter food items (e.g., burgers, pizzas, beverages)
+
 🛒 Cart functionality with item quantity adjustment
+
 🔐 User Authentication (Signup/Login with OTP or Email verification)
+
 📦 Order placement & tracking
+
 🧑‍💻 Admin dashboard for managing food items and orders
+
 📱 Responsive design for mobile and desktop
+
 🎥 Hero video/banner section on homepage (optional)
 
 📌 Tech Stack:
 
 Frontend: React.js, CSS, Bootstrap
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 API Handling: Axios
