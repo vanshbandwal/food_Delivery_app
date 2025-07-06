@@ -7,12 +7,8 @@ const AuthForm = () => {
   const [loginData, setLoginData] = useState({ email: "", password: "" });
   const [signupData, setSignupData] = useState({ name: "", email: "", password: "" });
 
-  
-
-
 
 const handleLogin = async(e) => {
-
       e.preventDefault()
       let res = await axios.post('http://localhost:3000/login',loginData);
       if (res.data.success === true) {
