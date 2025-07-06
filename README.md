@@ -8,15 +8,13 @@ A dynamic and responsive food ordering web application developed using the MERN 
 
 🛒 Cart functionality with item quantity adjustment
 
-🔐 User Authentication (Signup/Login with OTP or Email verification)
+🔐 User Authentication 
 
 📦 Order placement & tracking
 
 🧑‍💻 Admin dashboard for managing food items and orders
 
 📱 Responsive design for mobile and desktop
-
-🎥 Hero video/banner section on homepage (optional)
 
 📌 Tech Stack:
 
